@@ -3,7 +3,7 @@
  * @author Marcin Mikołajczyk <marcin@pjwstk.edu.pl>
  * @author Wojciech Jabłoński <www.jablonski@gmail.com>
  * @author Bogusław Zięba <bobi@poczta.fm>
- * @version 2018-06-10
+ * @version 2018-07-02
  */
 (function(root, factory) {
 	if (typeof define === 'function' && define.amd) {
@@ -462,7 +462,8 @@
 			'workspace'       : 'Obszar Pracy', // from v2.1.38 added 4.4.2018
 			'dialog'          : 'Dialog', // from v2.1.38 added 4.4.2018
 			'all'             : 'Wszystko', // from v2.1.38 added 4.4.2018
-			'iconSize'        : 'Rozmiar Ikony (Podgląd ikon)', // form v2.1.39 added 7.5.2018
+			'iconSize'        : 'Rozmiar Ikony (Podgląd ikon)', // from v2.1.39 added 7.5.2018
+			'editorMaximized' : 'Otwieraj edytor zawsze w zmaksymalizownaym oknie', // from v2.1.40 added 30.6.2018
 
 			/********************************** mimetypes **********************************/
 			'kindUnknown'     : 'Nieznany',
